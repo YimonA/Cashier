@@ -27,7 +27,7 @@ const Cashier = () => {
   const sampleData = [
     {
       id: 3,
-      name: "nisi",
+      name: "Lemon",
       img_src: lemon,
       actual_price: 275,
       sale_price: 325,
@@ -42,7 +42,7 @@ const Cashier = () => {
     },
     {
       id: 4,
-      name: "consequatur",
+      name: "Pineapple",
       img_src: pineapple,
       actual_price: 976,
       sale_price: 1026,
@@ -57,7 +57,7 @@ const Cashier = () => {
     },
     {
       id: 5,
-      name: "omnis",
+      name: "Strawberry",
       img_src: strawberries,
       actual_price: 396,
       sale_price: 446,
